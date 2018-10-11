@@ -4,14 +4,16 @@
     "_class": "color",
     "alpha": 1,
     "blue": 1,
+    "do_objectID": "B83764DB-1A69-46D9-ACA9-008E5C04D776",
     "green": 1,
     "red": 1
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "D94016AF-4C6E-4D00-84D9-7700D241A29B",
+  "do_objectID": "FBA3CE68-C790-41FD-AAED-9932D1377631",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "BA4D2FCD-09B6-4F83-87C4-78F7CE98583B",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -22,17 +24,19 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
+    "do_objectID": "0254094E-6990-41AE-8C50-AE1432CFE8B5",
     "height": 336,
     "width": 246,
-    "x": 192,
+    "x": 494,
     "y": 78
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
+    "do_objectID": "53523AB6-D505-47A3-A2E4-BA4047B93D40",
     "guides": [
     ]
   },
@@ -48,18 +52,18 @@
   "layers": [
     {
       "class": "rectangle",
-      "id": "26D08ACA-BA6F-4B91-AE94-7BAB36B1F3B3"
+      "id": "15DA17D5-73CB-496A-9676-05C382AEC0BB"
     },
     {
       "class": "oval",
-      "id": "3AC0C8D4-02A3-443E-8578-F34FF0471213"
+      "id": "B2B6520E-51FA-4890-BE35-66C3BF231398"
     },
     {
       "class": "text",
-      "id": "AF3B3794-7E12-43B5-91FA-53AC71DD8DBE"
+      "id": "A57F82EB-4685-4317-98F9-91688BC5EE84"
     }
   ],
-  "name": "bananito tito",
+  "name": "naranja",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
@@ -68,6 +72,7 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
+    "do_objectID": "75CF8541-969D-4BAE-B167-C1ADB05C13C7",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
@@ -76,6 +81,7 @@
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
+    "do_objectID": "704BD0AD-C747-405E-BD95-8910CFFA21DC",
     "guides": [
     ]
   }
